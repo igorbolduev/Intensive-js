@@ -1,3 +1,5 @@
+"use strict";
+
 const modalButton = document.querySelector(".modal__button");
 const modal = document.querySelector(".modal");
 const modalClose = document.createElement("button");
